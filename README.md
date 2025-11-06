@@ -26,3 +26,18 @@ In 250 rows remaings, there are 12 missing values with 3 values from Quantity co
 To deal with missing data, I replace them with N/A  because if I delete the missing value the sales data from Total_price columns can be under estimated or If i replace with specific values from Customer type , Product category and quantity the sales can be overestimated in those category.
 
 # 3. Descriptive Statistics
+Insight 1 :
+
+<img width="690" height="417" alt="image" src="https://github.com/user-attachments/assets/6d2c23b1-1776-46a2-b455-942659ff4054" />
+
+The chart shows that **Shampoo** and **Notebook** have the highest total sales, indicating strong customer demand in both personal care and stationery categories. In contrast, **Apples** have the lowest sales, suggesting lower consumer interest or possible pricing or supply issues. The supermarket could focus on promoting fresh produce while maintaining stock and marketing for top-performing items to sustain overall revenue growth.
+
+Insight 2 : 
+
+<img width="592" height="359" alt="image" src="https://github.com/user-attachments/assets/17e89819-0ea5-4178-ab28-0ae7a9b5dc1f" />
+
+The data shows that **Branch A** (Chicago and New York) significantly outperforms **Branch B** (Los Angeles) in total sales, indicating stronger overall performance and customer engagement in Branch A locations. This suggests that Branch A’s sales strategies or market conditions are more effective. The supermarket could analyze what drives Branch A’s success and why Branch B had lower sales then implement similar practices from A to Branch B to improve overall sales performance.
+
+
+
+
